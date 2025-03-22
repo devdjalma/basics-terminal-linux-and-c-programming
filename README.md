@@ -85,10 +85,12 @@ O Terminal é uma interface de texto onde você pode digitar comandos para o com
 
 2. **Navegar até a pasta desejada**
    ```
-   $ cd ~/Documentos/MeusProjetos # LEtras maiusculas e minusculas são diferentes, e podem influienciar no nomes das coisas
+   $ cd ~/Documentos/MeusProjetos #
    ```
+   Letras maiusculas e minusculas são diferentes,
+   e podem influienciar no nomes das coisas
 
-3. **Abrir o VSCodium na pasta atual**
+4. **Abrir o VSCodium na pasta atual**
    ```
    $ codium .
    ```
